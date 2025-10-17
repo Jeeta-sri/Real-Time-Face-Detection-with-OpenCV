@@ -59,44 +59,4 @@ It captures live video from your computer’s default webcam, processes each fra
    cd Real-Time-Face-Detection-with-OpenCV
 ````
 
-2. **Install Dependencies**
-
-   It’s recommended to use a virtual environment:
-
-   ```bash
-   pip install opencv-python
-   ```
-
-3. **Ensure Haar Cascade File Exists**
-
-   Make sure the file `haarcascade_frontalface_default.xml` is present in the same directory as your Python script.
-
----
-
-## ▶️ Usage
-
-Run the application using:
-
-```bash
-python face_detector.py
-```
-
-A window will appear showing your webcam feed.
-Position your face in front of the camera — a **green box** will appear around it.
-Press **`q`** to exit.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](./LICENSE) file for more details.
-
-
-
-## 🧠 Author
-
-**[Srijeeta Dutta]**
-
-
 
